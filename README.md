@@ -1,1 +1,1 @@
-# drowisiness_detection
+# kidney_stone_detection
