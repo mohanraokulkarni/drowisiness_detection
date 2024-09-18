@@ -6,6 +6,7 @@ Here's an updated and more interactive README file, incorporating emojis for a f
 
 Welcome to the **Kidney Stone Detection System**! This project provides a simple, interactive way to detect kidney stones from medical images using AI-powered deep learning. 🧠✨ It features an intuitive graphical user interface (GUI) to upload images and get real-time results. 🎯
 
+![Application Screenshot](start_gui.png)
 ## 📋 Table of Contents
 - [📖 About the Project](#-about-the-project)
 - [🛠 Tech Stack](#-tech-stack)
@@ -18,6 +19,8 @@ Welcome to the **Kidney Stone Detection System**! This project provides a simple
 
 ## 📖 About the Project
 This project aims to aid in **kidney stone detection** using deep learning. 🩺🔍 The system uses a **Convolutional Neural Network (CNN)** to predict the presence of kidney stones in medical images. The **Tkinter GUI** makes it easy for users to upload images and receive instant results. Plus, a soothing video background adds a modern, engaging touch! 🎥🌊
+
+![Application Screenshot](detect_gui.png)
 
 ## 🛠 Tech Stack
 - **Programming Language:** Python 🐍
