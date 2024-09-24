@@ -53,7 +53,7 @@ Follow these simple steps to get started:
     ```bash
     pip install tensorflow pillow imageio opencv-python
     ```
-4. **⬇️ Download the Pre-trained Model:**
+4. **⬇️ build a model and save with kidney_stone_model.h5:**
    - Place your `kidney_stone_model.h5` file in the project directory.
 
 5. **📝 Update Video File Path:**
